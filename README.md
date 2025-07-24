@@ -31,10 +31,3 @@ I developed a comprehensive `DataProcessor` class with intelligent feature handl
 - **Hyperparameter Optimization**: GridSearchCV across all models with 5-fold cross-validation.
 
 This systematic pipeline, from comprehensive EDA through sophisticated preprocessing to tuned ensemble modeling, demonstrates a production-ready approach to sales prediction with robust evaluation metrics and scalable architecture.
-
-![Leader Board SS](<Screenshot 2025-07-20 at 2.49.19 AM.png>)
-
-![Score SS](<Screenshot 2025-07-20 at 2.54.27 AM.png>)
-`just a note: scores in leaderboard and upload is slightly different because they are screenshotts of same output submitted twice`
-
-
